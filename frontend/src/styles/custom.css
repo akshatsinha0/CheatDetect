@@ -1,0 +1,19 @@
+    /* src/styles/custom.css */
+    .move-panel-center {
+        width: 300px !important;
+        margin: 0 auto !important;     /* Centers the element horizontally */
+        margin-top: -600px !important;
+        overflow-y: auto !important;
+        height: 199px !important;
+    }
+    
+    .footer-custom {
+        width: 100%;
+        /* You can adjust the vertical position with margin-top (or padding as needed) */
+        margin-top: 446px;
+        background-color: #ffffff; /* or any color you prefer */
+        padding: 1rem 0;
+        text-align: center;
+        /* Optional: add a box shadow for clarity */
+        box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+      }
