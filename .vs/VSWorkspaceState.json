@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\public\\svelte-dashboard",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\svelte-dashboard",
+    "\\frontend\\svelte-dashboard\\public",
+    "\\frontend\\svelte-dashboard\\scripts",
+    "\\frontend\\svelte-dashboard\\src"
+  ],
+  "SelectedNode": "\\frontend\\public\\svelte-dashboard\\bundle.js.map",
+  "PreviewInSolutionExplorer": false
+}
